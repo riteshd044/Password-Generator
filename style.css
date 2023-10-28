@@ -8,7 +8,7 @@
 body{
     width: 100vw;
     height: 100vh;
-    overflow: scroll;
+    overflow: hidden;
     background: linear-gradient(
     231deg,
     rgba(22, 6, 40, 1) 0%,
